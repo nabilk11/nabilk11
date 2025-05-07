@@ -1,4 +1,4 @@
-## Hello, My Name is Nabil. 
+# hello, ny name is nabil. 
 
 ### Developer + Lifelong Entrepreneur 
 
