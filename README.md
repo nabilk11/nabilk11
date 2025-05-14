@@ -3,6 +3,8 @@
 ### Developer + Lifelong Entrepreneur 
 
 ![kitanaNew_wCurve - Edited](https://github.com/user-attachments/assets/f3377a47-a803-4b28-ab20-338c3742b9dd)
+
+
 ### Digital Marketing x Web Development Services
 
 
@@ -16,7 +18,13 @@
 ### 2) What are you working on ? Short & Long Term.
 - Doing a lot of SAAS apps, for myself and my business. Client work always, digital marketing agency, but I really dont like that kinda stuff as much. Doing some cool SEO stuff with Next. A lot of ecom stuff with Shopify - purely for getting to the gwala, the BREASHHH.
   
-- Gotta work on finishing more stuff. I have so many half-done projects in the pipeline. I wanna master SEO / modern JS / web dev/ Integrate cool AI models / and eventually develop some more financial investment apps for education, as well as "evening the playing field for people from underserved communities. One thing thats really lacking is financial education for most ppl. Someone like me who has a lot of it just wastes money on frivulous things. BC i know i can get it back and understand how financials work, and knkow revenue streams. Most ppl dont :-(
+- Gotta work on completing projects before starting others. I have so many half-done projects in the pipeline. So many interests. And while i do eventually complete these projects (most of them lol), it doesn't have the same effect, and its not nearly as exciting to myself, or others who expected to see it done 30-90 days agos...as a whole in 2025, ###TimeManagement is going to be one of the most important areas of focus; a make or break year in my mind.  
+
+- Some of my more explicit goals are to continue to be in better and better shape, physically and mentally, every day.
+
+- From a tech/professional perspective, I wanna master SEO / modern JS/TS / web dev/ Integrate cool AI models / and eventually develop the many SaaS ideas i have in mind, as well as to develop financial investment apps in an effort to educate the masses and provide financial literacy to all.
+
+- Growing up in NYC, i've had friends from every walk of life, and too often those from low income areas, aren't educated on how money works, and the many ways that the rich, stay rich, and the many opportunities we all should be taking advantage of in order to improve our financial standing. from investing in stocks and funds long term, to short term trading, and more. how to properly save your money. or even how much easier it is to make $10k more a year, than to save $10k per year. 
 
 - Time management. Patience. Expressing myself. Trusting more ppl. Improving my body/mind/perspective every day. 
 
@@ -29,7 +37,7 @@
 - everything! but i keep it to myself..lol
 - censoring or filtering myself a bit more at times.
 - time management.
-- collaborating with others and being wiling to delegate more as a business owner in the midst of trying to scale..
+- opening myself up to collaborating with others and being wiling to delegate more as a business owner in the midst of trying to scale..
 
 ### 5) Ask me about...
 - How to invest and utilizing financial instruments like stocks / crypto. Specifically an Options trader.
