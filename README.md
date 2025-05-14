@@ -48,7 +48,7 @@
 
 ### 6) How to reach me?
 - Don't...valid for most ppl lol
-- phone -> [Text Meh](tel:+4242534417)
+- phone ->  [Text Meh](tel:4242534417) 
 - email ->  [Email Meh](mailto:n.khan@kitanainc.com)
  
 
