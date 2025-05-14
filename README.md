@@ -48,9 +48,9 @@
 
 ### 6) How to reach me?
 - Don't...valid for most ppl lol
-- Personal -> [Text / Facetime / Call Meh](tel:+15163040124)
-- Business ->  [Email Meh](mailto:n.khan@kitanainc.com)
-- 
+- phone -> [Text Meh](tel:+4242534417)
+- email ->  [Email Meh](mailto:n.khan@kitanainc.com)
+ 
 
 <!--
 **nabilk11/nabilk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
