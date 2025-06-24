@@ -1,7 +1,7 @@
 # hello, my name is nabil. 
 
 ### Developer + Lifelong Entrepreneur --> My values do not extend too far past love and freedom <3
-
+- 35 Years Young & I been handsome for each and every one of them baby boiii... 
 ![kitanaNew_wCurve - Edited](https://github.com/user-attachments/assets/f3377a47-a803-4b28-ab20-338c3742b9dd)
 
 
